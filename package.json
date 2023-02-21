@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/nodejs/examples#readme",
   "dependencies": {
-    "bent": "^7.3.10",
+    "bent212222": "^7.3.10",
     "express": "^4.17.1",
     "hbs": "^4.1.1",
     "nodemon": "^2.0.19",
